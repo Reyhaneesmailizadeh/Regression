@@ -1,0 +1,22 @@
+part 1:
+
+Consider data set table.b1 from the MPV package in R software. These data represent the performance of 26 national soccer league teams in the United States in 1976. It is expected that the number of goals conceded (2) affects the number of games won by the team (1).
+
+a. Fit a simple linear regression model between 8 and 7.
+b. Determine the residuals of the above regression model.
+c. Estimate the error variance.
+Weight and blood pressure of 26 randomly selected men aged between 25 and 30 years have been measured and are presented in Table 701 (Myers, 1990).
+
+a. Estimate the correlation coefficient between weight and blood pressure.
+b. Fit a simple linear regression model to predict blood pressure based on weight.
+
+part 2:
+
+Hasuii and colleagues (1995) investigated the effect of molar ratio of a type of acid (23) on the adhesion of terylene fibers (1). The data below are from this study in Table 81 (Monge Morda).
+
+a. Plot the scatter distribution of the data. Fit a simple linear regression model to the data and estimate the model coefficients.
+b. Calculate the fitted values of terylene adhesion.
+Data in Table 91 show the severity of a specific disease and the body temperature of 10 patients (American Phytopathological Society). The objective is to determine the relationship between disease severity and patient body temperature.
+
+a. Fit a simple linear regression model to the data and estimate the model coefficients.
+b. Calculate the fitted values of disease severity.
