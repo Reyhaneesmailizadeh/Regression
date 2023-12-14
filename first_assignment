@@ -1,3 +1,4 @@
+Assignment1:
 part 1:
 
 Consider data set table.b1 from the MPV package in R software. These data represent the performance of 26 national soccer league teams in the United States in 1976. It is expected that the number of goals conceded (2) affects the number of games won by the team (1).
