@@ -1,0 +1,8 @@
+Data in Table 2.2 relate to 27 pine trees, where their specific modulus (1) measured in kilopascals (KPa) and specific weight (2) measured in grams per cubic centimeter (gr/cm3).
+(Myers, 1990)
+
+a. Fit a second-degree polynomial regression line.
+b. Estimate the error term variance of the model and calculate the variance estimates of the linear regression model parameters using it.
+c. Perform a significant test for the linear regression model in two different methods.
+d. Construct an analysis of variance table to determine whether the linear regression model is significant or not.
+e. For a specific value of 0.580 = , obtain the confidence interval and prediction interval for the predictor variable .
