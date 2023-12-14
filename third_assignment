@@ -1,0 +1,16 @@
+Assignment 3:
+
+Data in Table 3.3 pertains to a study on driving accidents and vehicle safety. The variables: vehicle speed and braking distance to complete stop are displayed.
+
+a. Plot a scatter plot (1). Do you think a linear regression model is suitable for the data?
+b. Fit a simple linear regression model to the data and calculate residuals. Calculate standardized residuals.
+c. Plot standardized residuals against fitted values and comment on them.
+d. Use the 2 - 1 transformation, derive the linear regression model 11 vs. and plot the standardized residuals of this model.
+e. Obtain the determination coefficient values for the models in parts "b" and "d" and comment on the obtained results.
+Data from Table 4.3 by Carroll and Spiegelman (1986) investigates the relationship between pressure in a source and fluid volume inside the source.
+
+a. Fit a linear regression model to this data and obtain residuals.
+b. Plot QQ plot of residuals and describe.
+c. Plot standardized residuals against fitted values and interpret.
+d. Assume the data collection is in chronological order as presented in the above table. Plot residuals against time and interpret.
+e. Conduct a lack-of-fit test for the linear regression model for data in Table 4.3.
